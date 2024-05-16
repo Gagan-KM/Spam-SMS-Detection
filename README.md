@@ -1,5 +1,5 @@
 
-# SMS Spam Prediction Using Naive Bayes Classifier
+# SMS Spam Prediction Using Machine Learning
 
 ## Overview
 This project is centered around developing a fraud SMS prediction model utilizing the Naive Bayes classifier, a popular algorithm for text classification tasks. The objective is to construct a model capable of accurately discerning between legitimate and fraudulent SMS messages based on various textual and metadata features.
